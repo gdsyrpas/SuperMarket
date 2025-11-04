@@ -1,0 +1,4 @@
+Username:admin1 Password:password1 Role:Administrator
+Username:admin2 Password:password2 Role:Administrator
+Username:user1 Password:password1 Role:Customer
+Username:user1 Password:password1 Role:Customer
